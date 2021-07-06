@@ -340,12 +340,12 @@ a {
   -moz-user-select:none;
   -ms-user-select:none;
   user-select:none;
-  color: #f7adaf!important;
+  color: #62a9ca!important;
   background-color: white!important
 }
 .button:hover {
   color:white!important;
-  background-color:#f7adaf!important
+  background-color:#adbbf7!important
 }
 
 .ul {
@@ -356,7 +356,7 @@ a {
 
 .ul li {
   padding:8px 16px;
-  border-bottom:1px solid #ddd
+  border-bottom:1px solid rgb(7, 180, 211)
 }
 
 .ul li:last-child {
@@ -674,7 +674,6 @@ a {
   }
 }
 
-/* Colors */
 .link:hover {color: #62a9ca!important; filter: saturate(105%)}
 .warna {color: #f7adaf!important;background-color: white!important}
 .warna:hover {color: white!important; background-color: #f7adaf!important}
