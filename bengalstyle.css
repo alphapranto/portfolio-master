@@ -209,48 +209,10 @@ button:-moz-focusring,
   outline:1px dotted ButtonText
 }
 
-fieldset {
-  border:1px solid #c0c0c0;
-  margin:0 2px;
-  padding:.35em .625em .75em
-}
-
-legend {
-  color:inherit;
-  display:table;
-  max-width:100%;
-  padding:0;
-  white-space:normal
-}
 
 textarea {
   overflow:auto
 }
-
-[type=checkbox],
-[type=radio] {
-  padding:0
-}
-
-[type=number]::-webkit-inner-spin-button,
-[type=number]::-webkit-outer-spin-button {
-  height:auto
-}
-
-[type=search] {
-  -webkit-appearance:textfield;
-  outline-offset:-2px
-}
-
-[type=search]::-webkit-search-decoration {
-  -webkit-appearance:none
-}
-
-::-webkit-file-upload-button {
-  -webkit-appearance:button;
-  font:inherit
-}
-/* End extract */
 
 html,body {
   font-family:Verdana,sans-serif;
@@ -680,7 +642,7 @@ a {
 .warnabalik {color: white!important; background-color: #f7adaf!important}
 .pink {color: #f7adaf!important;background-color: white!important}
 .white,.hover-white:hover {color:#000!important;background-color:#fff!important}
-.black {color:#fff!important;background-color:#000!important}
-.black:hover {color:#f7adaf!important;background-color:#fff}
-.light-grey,.hover-light-grey:hover {color:#000!important;background-color:#f1f1f1!important}
-.pale-red,.hover-pale-red:hover {color:#000!important;background-color:#ffdddd!important}
+.black {color:#fff!important;background-color:rgb(91, 155, 238)!important}
+.black:hover {color:#36d2ee!important;background-color:#fff}
+.light-grey,.hover-light-grey:hover {color:rgb(0, 0, 0)!important;background-color:#f1f1f1!important}
+.pale-red,.hover-pale-red:hover {color:rgb(0, 0, 0)!important;background-color:#ffdddd!important}
